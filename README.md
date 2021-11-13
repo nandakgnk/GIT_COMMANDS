@@ -1,3 +1,3 @@
 # GIT_COMMANDS
 GIT_COMMANDS
-hostname
+hodad
